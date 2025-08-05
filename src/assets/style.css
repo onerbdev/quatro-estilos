@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    color: white;
+    
+}
+
+.title, li {
+    color: #84C754;
+}
