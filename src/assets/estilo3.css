@@ -2,7 +2,7 @@ body{
     background-color: white;
     color: black;
     font: 100% Verdana;
-    float: left;
+
 
  }
 
@@ -12,8 +12,6 @@ body{
 
 h1, h2, h3, h4{
     color: #4CAF50;
-    
-
 }
 
 li{
@@ -27,8 +25,9 @@ li{
     margin: 4px;
 }
 
-ul{ 
-
+ul{
+    overflow: auto;
+    padding: 0;
 }
 
 li:nth-child(3){ 
